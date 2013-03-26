@@ -1,1 +1,9 @@
 Prebuilt images for testing Genode
+
+:two_linux_panda.img.gz:
+
+  Szenario as described at [http://genode.org/documentation/articles/pandaboard]
+
+:uboot_arndale-<version>.tgz:
+
+  Pre-built u-boot boot loader configured to run Genode on the Arndale board
