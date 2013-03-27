@@ -2,7 +2,11 @@ Prebuilt images for testing Genode
 
 :two_linux_panda.img.gz:
 
-  Szenario as described at [http://genode.org/documentation/articles/pandaboard]
+  Scenario as described at [http://genode.org/documentation/articles/pandaboard]
+
+:l4linux_dynamic_arndale.img.gz:
+
+  Genode scenario running many L4Linux instances on the Arndale board
 
 :uboot_panda-<version>.tgz:
 
